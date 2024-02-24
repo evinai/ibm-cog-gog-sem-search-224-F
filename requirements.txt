@@ -1,0 +1,5 @@
+faiss-cpu 
+numpy 
+scikit-learn
+tensorflow>=2.0.0
+install --upgrade tensorflow-hub

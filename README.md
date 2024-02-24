@@ -1,0 +1,1 @@
+[IBM Cognitive Course Completed - 0224](https://apps.cognitiveclass.ai/learning/course/course-v1:IBMSkillsNetwork+GPXX0KUVEN+v1/home)
